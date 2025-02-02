@@ -1,0 +1,36 @@
+Plano Estratégico de Manutenção do Transportador 415P-TP-0001
+1. Levantamento de Problemas e Recursos
+A manutenção do transportador 415P-TP-0001 envolve a identificação e correção de diversos problemas, como:
+
+Rasgo na correia transportadora
+Desgaste excessivo na cobertura da correia
+Desalinhamento dos roletes/tambores
+Falha nos roletes de retorno
+Acúmulo de material nos componentes
+Cada problema exige uma ação específica, equipe designada, materiais e tempo estimado para correção.
+
+2. Cronograma de Manutenção
+O plano de manutenção segue um cronograma detalhado, garantindo uma execução eficiente das atividades:
+
+Preparação e segurança (1h) – bloqueio de energia e inspeção inicial.
+Limpeza de acúmulo de material (3h) – remoção de resíduos nos roletes e tambores.
+Substituição da correia (8h) – remoção da correia danificada e instalação da nova.
+Troca de roletes danificados (6h) – substituição de roletes travados/desgastados.
+Alinhamento de roletes/tambores (4h) – ajuste com nível laser.
+Inspeção elétrica (2h, em paralelo).
+Inspeção geral (2h, em paralelo).
+Tempo total estimado: 24 horas (3 dias úteis).
+
+3. Plano de Contingência
+Para minimizar impactos negativos, um plano de contingência foi definido:
+
+Manter um estoque estratégico de peças críticas (correias, roletes).
+Contato com fornecedor alternativo para emergências.
+Equipe de reserva disponível para atuar em casos imprevistos.
+Acréscimo de 10% no tempo total do cronograma para lidar com possíveis atrasos.
+Procedimentos emergenciais para ajuste manual dos roletes/tambores.
+Com esse texto como base, a sua API poderá responder perguntas como:
+✅ Qual é o tempo estimado para cada etapa da manutenção?
+✅ Quais problemas podem ocorrer no transportador 415P-TP-0001?
+✅ O que acontece se houver atraso na entrega das peças?
+✅ Como é feita a inspeção elétrica?
